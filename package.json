@@ -1,0 +1,34 @@
+{
+  "name": "Presenter",
+  "version": "1.0.0",
+  "description": "No need for a projector... Your presentation is always made live.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "supervisor app.js"
+  },
+  "keywords": [
+    "projector",
+    "presenter",
+    "remote",
+    "control",
+    "mobile",
+	"powerpoint",
+    "presentation"
+  ],
+  "author": "Sarpong",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.11.0",
+    "socket.io": "^1.3.2"
+  },
+  "bugs": {
+	"url" : "https://github.com/Sarps",
+ 	"email" : "esarpong51@gmail.com"
+  },
+  "repository": {
+	"type": "git",
+	"url": "git://github.com/Sarps/Presenter.git"
+  }
+}
+
